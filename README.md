@@ -1,7 +1,7 @@
-- 👋 Hi, welcome to the @NorGliders github page
-- 👀 University of Bergen, Geophysical Institute
+👋 Hi, welcome to the @NorGliders github page
+👀 University of Bergen, Geophysical Institute
 
-- 📫 How to reach us: gliders@gfi.uib.no
+📫 How to reach us: gliders@gfi.uib.no
 
 <!---
 NorGliders/NorGliders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
