@@ -1,6 +1,6 @@
 - 👋 Hi, welcome to the @NorGliders github page
 - 👀 University of Bergen, Geophysical Institute
-n ...
+
 - 📫 How to reach us: gliders@gfi.uib.no
 
 <!---
